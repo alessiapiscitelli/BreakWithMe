@@ -1,5 +1,5 @@
 
-<img src="App Icon 2.png" alt="Screenshot" width= "30%"> 
+<img src="App Icon-2.png" alt="Screenshot" width= "30%"> 
 
 # BreakWithMe
 ☕️ BreakWithMe: Your Companion to Stay Focused and Stress-Free
