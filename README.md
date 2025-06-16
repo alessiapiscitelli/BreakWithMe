@@ -11,6 +11,8 @@ Just like a coffee break recharges you, BreakWithMe melts away stress and helps 
 
 Perfect for students, professionals, or anyone looking to manage their time and mental well-being.
 
+<img src="Notifications.PNG" alt="Screenshot" width= "30%"> <img src="Homepage.PNG" alt="Screenshot" width= "30%"> <img src="Diary.PNG" alt="Screenshot" width= "30%"> 
+
 ✨ Key Features
 
 1. SMART BREAK REMINDERS
