@@ -35,4 +35,10 @@ THINK: Reflect and organize your thoughts;
 
 4. PERSONAL JOURNAL
    
-A secure, private space to track your thoughts, celebrate wins, and monitor your progress
+A secure, private space to track your thoughts, celebrate wins, and monitor your progress.
+
+⚒️ Installation:
+
+Download it now for free on AppStore!
+
+<img src="QR CODE BREAKWITHME.png" alt="Screenshot" width= "30%"> 
